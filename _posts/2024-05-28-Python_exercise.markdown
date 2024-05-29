@@ -6,7 +6,8 @@ author:     "ChrisLee"
 header-style: text
 catalog: true
 tags:
-    - Meta
+    - Python
+    - Exercise
 ---
 
 ## 递归买汽水问题
