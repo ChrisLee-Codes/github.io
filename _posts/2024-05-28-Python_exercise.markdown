@@ -9,9 +9,6 @@ tags:
     - Meta
 ---
 
-
-# Python_exercise
-
 ## 递归买汽水问题
 
 ### 题目
