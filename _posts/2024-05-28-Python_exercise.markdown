@@ -10,6 +10,24 @@ tags:
     - Exercise
 ---
 
+## 软件推荐
+* Thonny: 它是一个开源软件。支持安装即使用，无需配置环境，对新手比较友好！！
+* 科学上网，可以从谷歌云盘直接下载👉：[Thonny](https://drive.google.com/file/d/1pWzRVHToag1QWmYOehuCg0LWsgM8qbyB/view?usp=sharing)
+* 从我的gitee仓库，直接下载👉：[Thonny](https://gitee.com/ChrisLee-Codes/python_exercises/raw/master/thonny.zip)
+* 从我的阿里云存储器上，直接下载👉：[thonny](https://syc-public.oss-cn-shanghai.aliyuncs.com/user/ChrisLee/src/thonny_1716974666566.zip)
+* 如果想安装一些第三方库，可以使用下面这句代码
+```python
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
+```
+
+
+* YouTube    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixasCRbVAAo?si=5zl5AMaIex7OsjvF" title="Python应用程序打包" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* 优酷    
+<iframe width="651" height="366" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* 哔哩哔哩    
+<iframe width="651" height="366" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 递归买汽水问题
 一瓶汽水一元钱，两个空瓶或者三个瓶盖，可以换一瓶汽水。请问我有20元钱，可以喝多少瓶汽水？
 
@@ -29,10 +47,6 @@ tags:
 * 拓展：
     * 使用其他方式解决汽水闸题
 
-* <iframe width="651" height="366" src="//player.bilibili.com/player.html?isOutside=true&aid=112491076587264&bvid=BV19JuyerELH&cid=500001556444993&p=1" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-* <iframe width="651" height="366" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 
 ## 录取率和录取线的计算
 人生不如意十有八九，特别是在考试的分数线上。    
 本节课的课题，就是来通过录取率计算录取线，或者根据录取线，计算录取率。
@@ -45,7 +59,8 @@ tags:
 
 相关知识点:字符串、函数、计算
 
-## <姓名>在<地址>做<某件事>
+
+## <姓名>在<地址><做某件事>
 
 小时候的抽签游戏玩过吗?一堆人物，一堆地点，一堆事情
     * 小明 在 图书馆 吃饭
@@ -92,6 +107,13 @@ tags:
 
 
 
+
+
+
+---
+
+End    
+Edix by ChrisLee
 
 
 
