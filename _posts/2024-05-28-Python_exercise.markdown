@@ -19,16 +19,13 @@ tags:
 ```python
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 ```
-* 详细讲解可以看下面三个视频：
-
+* 详细安装及使用过程可以看下面三个视频（三个平台是相同的内容）：
 * YouTube    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ixasCRbVAAo?si=5zl5AMaIex7OsjvF" title="Python应用程序打包" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/ixasCRbVAAo?si=5zl5AMaIex7OsjvF" title="Python应用程序打包" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * 优酷    
-<iframe width="651" height="366" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+* <iframe width="651" height="366" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * 哔哩哔哩    
-<iframe width="651" height="366" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* <iframe width="651" height="366" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Python_exerses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 递归买汽水问题
 一瓶汽水一元钱，两个空瓶或者三个瓶盖，可以换一瓶汽水。请问我有20元钱，可以喝多少瓶汽水？
