@@ -21,11 +21,12 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 ```
 * 详细安装及使用过程可以看下面三个视频（三个平台是相同的内容）：
 * YouTube（需要科学上网，如无法加载，可看后面的视频）    
-* <iframe width="560" height="315" src="https://www.youtube.com/embed/tTI1Hy57O5I?si=J5E9y95io4Pp_1WG" title="Thonny软件的安装与使用" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/tTI1Hy57O5I?si=J5E9y95io4Pp_1WG" title="Thonny软件的安装与使用" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * 优酷    
-* <iframe width="560" height="315" src="https://player.youku.com/embed/XNjM5OTA4NjA1Mg==" title="Thonny软件的安装与使用" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* <iframe width="560" height="315" src="https://player.youku.com/embed/XNjM5NDUzOTI0MA==" title="Thonny软件的安装与使用" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * 哔哩哔哩    
-* <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=112530525194496&bvid=BV1CZTqebE56&cid=500001565615269&p=1" title="Thonny软件的安装与使用" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* [![image.png](https://syc-public.oss-cn-shanghai.aliyuncs.com/user/ChrisLee/src/MyFiles/github_1717118796328.png)](https://www.bilibili.com/video/BV1CZTqebE56/?spm_id_from=333.999.0.0&vd_source=33299c3593cfbafc46803f751395f83f)
+
 
 ## 递归买汽水问题
 一瓶汽水一元钱，两个空瓶或者三个瓶盖，可以换一瓶汽水。请问我有20元钱，可以喝多少瓶汽水？
