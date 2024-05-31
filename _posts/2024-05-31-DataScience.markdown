@@ -16,9 +16,11 @@ tags:
 * [阿里云天池NoteBook](https://tianchi.aliyun.com/notebook-ai/)
 
 ## 交流群
-* <img src="update_img/DS.jpg" width="50%" style="margin-left: 10%;">
+* <img src="img/DS.jpg" width="50%" style="margin-left: 10%;">
 * 如无法加群可以联系我：
-* <img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f" width="50%" style="margin-left: 10%;">
+* <img src="img/me.png" width="50%" style="margin-left: 10%;">
+
+[](https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f)
 
 ## Matplotlib
 ## Numpy
