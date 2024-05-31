@@ -10,7 +10,7 @@ tags:
   - Python
   - programming
 ---
-
+<!--
 <iframe 
   id="chart"
   src="https://chrislee-codes.github.io/"
@@ -18,7 +18,7 @@ tags:
   scrolling="no" 
   style="width: 100%">
 </iframe>
-
+-->
 
 
 ## Python 基本语法：
@@ -31,16 +31,20 @@ tags:
 * 注释:
 	* 使用 `#` 来写一些解释或者提示。
 	* Python 不会读这部分，是写给人看的。
+
 ```python
 # 这是一个提示，Python不会读它
 ```
+
 * 变量:
 	* 变量就像是一个小盒子，可以放东西（数字、文字等）。
 	* 你给每个盒子起一个名字，这样就可以找到它。
+
 ```python
 my_number = 5
 my_name = "ChrisLee"
 ```
+
 * 命名:
 	* 给变量起名字的时候，名字要有意义。
 	* 比如叫 `number` 比叫 `a` 好理解。
@@ -55,16 +59,19 @@ my_name = "ChrisLee"
 		* `list`: 一个清单，可以放很多东西，比如 [1, 2, 3] 或 ["apple", "banana"]。
 * 赋值语句:
 	* 使用 `=` 来给变量放入一个值。
+
 ```python
 my_favorite_number = 9
 my_english_name = "ChrisLee"
 ```
+
 * 引用:
 	* 当我们给变量放东西时，实际上是给了一个地址或位置。
 	* 就像告诉你去书架的第3层找一本书。
 * 基本输入输出:
 	* `input()`: 可以让用户告诉Python一些信息。
 	* `print()`: 可以让Python告诉用户一些信息。
+
 ```python
 your_name = input()             # 输入：ChrisLee
 print("你好,", your_name, "!")  # 输出：你好,ChrisLee!
@@ -92,16 +99,20 @@ print("你好,", your_name, "!")  # 输出：你好,ChrisLee!
 	- 对于 `str`:
 		* `+`: 连接两个字符串
 		* `*`: 重复字符串
+
 ```python
 name = "Chris" + "Lee"  # 结果: "ChrisLee"
 repeat = "chris" * 3  # 结果: "chrischrischris"
 ```
+
 * 类型判断:
 使用 `type()` 函数来检查一个值的数据类型。
+
 ```python
 x = 5
 print(type(x))  # 输出: <class 'int'>
 ```
+
 * 类型间转换:
 	- `int()`:
 	将其他数据类型转换为整数。
@@ -111,12 +122,14 @@ print(type(x))  # 输出: <class 'int'>
 	将其他数据类型转换为字符串。
 	- `bool()`:
 	将其他数据类型转换为布尔值。通常0、空字符串等为`False`，其他为`True`。
+
 ```python
 number = int("123")  # 结果: 123
 decimal = float("123.45")  # 结果: 123.45
 text = str(123)  # 结果: "123"
 boolean = bool(1) # 结果：True
 ```
+
 ## 程序的控制结构：
 * 顺序结构:
 	* 程序从上到下，一步一步执行，就像阅读故事书一样。
@@ -127,11 +140,13 @@ boolean = bool(1) # 结果：True
 	如果条件为真，执行if下的代码；否则，执行else下的代码。
 	- `if-elif-else` 语句:
 	可以判断多个条件，并执行匹配条件的代码块。
+
 ```python
 age = 12
 if age < 18:
     print("你还是个孩子。")
 ```
+
 ```python
 age = 20
 if age < 18:
@@ -139,6 +154,7 @@ if age < 18:
 else:
     print("你已经是个大人了。")
 ```
+
 ```python
 score = 85
 if score >= 90:
@@ -150,6 +166,7 @@ elif score >= 70:
 else:
     print("D级")
 ```
+
 * 循环结构:
 	- `for` 循环:
 	对一个序列（如列表或字符串）中的每个元素都执行一遍循环。
@@ -158,17 +175,20 @@ else:
 	- 循环控制语句:
 		* `break`: 用于中断循环。
 		* `continue`: 用于跳过当前循环的剩余部分，开始下一次循环。
+
 ```python
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
 ```
+
 ```python
 count = 0
 while count < 5:
     print(count)
     count += 1  # 这表示 count = count + 1
 ```
+
 ```python
 # 使用break
 for i in range(5):
@@ -197,9 +217,11 @@ for i in range(5):
 		* **长度**: 使用 `len()` 函数。
 		* **切片**: 使用 `:`，例如 `my_list[1:4]`。
 		* **其他**: 如排序 (`sort()`)，逆序 (`reverse()`) 等。
+
 ```python
 my_list = [1, 2, 3, 'apple', 'ChrisLee']
 ```
+
 * 字典 (Dictionary):
 	* **定义**: 字典是无序的键值对集合。每个键必须唯一。
 	* **创建**:
@@ -209,6 +231,7 @@ my_list = [1, 2, 3, 'apple', 'ChrisLee']
 		* **移除元素**: 使用 `del`，例如 `del my_dict['age']`。
 		* **长度**: 使用 `len()` 函数。
 		* **键和值**: 使用 `keys()` 获取所有键，使用 `values()` 获取所有值，使用 `items()` 获取所有键值对。
+
 ```python
 my_dict = {'name': 'ChrisLee', 'age': 27, 'city': 'Beijing'}
 ```
@@ -220,16 +243,20 @@ my_dict = {'name': 'ChrisLee', 'age': 27, 'city': 'Beijing'}
 	* 当你需要多次完成同样的任务时，可以创建一个函数，然后多次调用它。
 * 定义函数:
 使用 `def` 关键字来定义函数。例如，我们定义一个函数，用于两个数相加：
+
 ```python
 def add_two_numbers(a, b):
     return a + b
 ```
+
 * 调用函数:
 调用函数就像是使用那个小工具箱：
+
 ```python
 result = add_two_numbers(5, 3)  # 调用函数并传入5和3作为参数
 print(result)  # 输出: 8
 ```
+
 * 参数和返回值:
 	* **参数**: 是传递给函数的值，可以想象成是工具箱需要的材料。
 	* **返回值**: 函数完成工作后给你的结果。
@@ -238,6 +265,7 @@ print(result)  # 输出: 8
 
 * 默认参数:
 你可以为函数参数设置默认值。这样，如果在调用函数时没有提供 `name` 参数的值，它会使用默认的 "Limio"：
+
 ```python
 def greet(name="Limio"):
     return "Hello, " + name + "!"
@@ -245,12 +273,14 @@ def greet(name="Limio"):
 print(greet())          # 输出: Hello, Limio!
 print(greet("ChrisLee"))   # 输出: Hello, ChrisLee!
 ```
+
 * 代码复用:
 函数的一个主要目的就是允许代码复用。当你发现自己多次编写同样的代码时，考虑将它放入一个函数中。
 
 * 局部与全局变量:
 	* **局部变量**: 在函数内部创建的变量。只能在该函数内部使用。
 	* **全局变量**: 在函数外部创建，可以在整个程序中使用。
+
 ```python
 global_variable = "I am global"
 
@@ -270,6 +300,7 @@ check_scope()
 	* 默认参数（可选参数）:
 		* 默认参数是在定义函数时为参数提供的默认值。
 		* 如果在调用函数时没有为该参数提供值，它将使用默认值。
+
 ```python
 def print_age(age):
     print("Your age is:", age)
@@ -285,6 +316,7 @@ def greet(name="Limio"):
 greet("ChrisLee")  # 输出: Hello, ChrisLee
 greet()        # 输出: Hello, Limio
 ```
+
 **比较**:
 * 必须性:
 	* 必须参数：在函数调用时必须提供。
@@ -295,6 +327,7 @@ greet()        # 输出: Hello, Limio
 * 函数调用的灵活性:
 	* 必须参数：提供的参数值的顺序与定义时的顺序应一致。
 	* 默认参数：可以使用参数名在函数调用时传递值，这样可以跳过某些默认参数。
+ 
 	```python
 	def example_func(a, b=5, c=10):
 		print(a, b, c)
@@ -304,6 +337,7 @@ greet()        # 输出: Hello, Limio
 	example_func(1, 2, 3)        # 输出: 1 2 3
 	example_func(1, c=3)         # 输出: 1 5 3，只更改 c 的值
 	```
+ 
 
 ## 面向对象编程（OOP）：
 * 基本概念:
@@ -312,6 +346,7 @@ greet()        # 输出: Hello, Limio
 * 类和对象:
 	* **类 (Class)**: 是对象的蓝图或模板。可以想象成是建筑的设计图纸。
 	* **对象 (Object)**: 是类的实例。基于类的蓝图创建的实体。类似于根据设计图纸建造的建筑。
+
 ```python
 # 定义一个类
 class Car:
@@ -324,9 +359,11 @@ class Car:
 my_car = Car()
 my_car.drive()  # 输出: ChrisLee, The car is driving.
 ```
+
 * 构造方法和 `self`:
 	* 构造方法 `__init__`: 用于初始化对象。当创建类的新对象时，该方法会自动执行。
 	* `self`: 在类的方法中，表示对象本身。它是所有方法的第一个参数。
+
 ```python
 class Car:
     def __init__(self, color):
@@ -338,9 +375,11 @@ class Car:
 red_car = Car("red")
 red_car.describe()  # 输出: ChrisLee, The car is red
 ```
+
 * 类的继承:
 	* 继承允许我们定义一个类，该类继承另一个类的属性和方法。
 	* 新类被称为子类，被继承的类称为父类。
+
 ```python
 # 父类
 class Vehicle:
@@ -356,9 +395,11 @@ my_bike = Bike()
 my_bike.move()       # 输出: ChrisLee, The vehicle is moving.
 my_bike.ring_bell()  # 输出: Ring ring!
 ```
+
 * 多态:
 	* 多态意味着不同的对象可以为同一方法提供不同的实现。
 	* 它允许我们在子类中定义父类中已存在的方法。
+
 ```python
 class Bird:
     def sound(self):
@@ -382,11 +423,13 @@ crow.sound()     # 输出: Caw caw
 
 ## 文件操作:
 * 文件打开与关闭:
+
 ```python
 f = open("ChrisLee.txt", "r")  # 打开文件进行读取
 content = f.read()            # 读取文件内容
 f.close()                     # 关闭文件
 ```
+
 * 文件读写操作:
 	* `read(): 读取文件的全部内容。
 	* `readline()`: 读取文件的一行。
