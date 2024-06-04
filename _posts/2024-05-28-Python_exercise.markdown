@@ -103,20 +103,6 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
     * 自定义文案，逼格越高越有趣
 
 
-
-
-
-
-
-
-
----
-
-End    
-Edix by ChrisLee
-
-
-
 ---
 
 End    
