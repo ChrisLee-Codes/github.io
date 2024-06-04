@@ -18,7 +18,7 @@ tags:
 ## 交流群
 * <img src="https://syc-public.oss-cn-shanghai.aliyuncs.com/user/ChrisLee/src/DS_1717127314298.jpg" width="50%" style="margin-left: 10%;">
 * 如无法加群可以联系我：
-* <img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f" width="30%" style="margin-left: 50%;">
+* <img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f" width="30%" style="margin-left: 20%;">
 
 [](https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f)
 
