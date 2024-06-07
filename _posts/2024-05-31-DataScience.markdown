@@ -3,7 +3,6 @@ layout:     post
 title:      "DataScience"
 date:       2024-05-28 12:00:00
 author:     "ChrisLee"
-header-style: text
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
