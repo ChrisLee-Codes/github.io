@@ -19,7 +19,7 @@ tags:
 * [![image.png](https://syc-public.oss-cn-shanghai.aliyuncs.com/user/ChrisLee/src/MyFiles/github_1717118796328.png)](https://www.bilibili.com/video/BV1WoGgeZEmc/?spm_id_from=333.999.0.0&vd_source=33299c3593cfbafc46803f751395f83f)
 
 ## 交流群
-* <img src="https://syc-public.oss-cn-shanghai.aliyuncs.com/user/ChrisLee/src/DS_1717127314298.jpg" width="50%" style="margin-left: 10%;">
+* <img src="img/DS.jpg" width="50%" style="margin-left: 10%;">
 * 如无法加群可以联系我：
 * <img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f" width="30%" style="margin-left: 20%;">
 
