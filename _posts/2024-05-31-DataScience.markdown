@@ -21,7 +21,7 @@ tags:
 ## 交流群
 * [点击这里进入微信群聊](https://drive.google.com/file/d/14t-60NcxSP4v6UrCEKkZFtLjfMKFesUU/view?usp=drive_link)
 * 如无法加群可以联系我：
-* <img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f" width="30%" style="margin-left: 20%;">
+* <img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f" width="20%" style="margin-left: 0%;">
 
 [](https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f)
 
