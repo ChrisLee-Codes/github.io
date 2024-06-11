@@ -3,7 +3,6 @@ layout:     post
 title:      "一个浪漫又悲情的爱情故事"
 subtitle:   " \"笛卡尔心形线\""
 author:     "ChrisLee"
-header-style: text
 catalog: true
 tags:
     - Web
