@@ -25,7 +25,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 * 优酷    
 * <iframe width="560" height="315" src="https://player.youku.com/embed/XNjM5NDUzOTI0MA==" title="Thonny软件的安装与使用" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * 哔哩哔哩
-* [![image](https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/dbacc152-40cd-400e-b118-91f2bc4ba813)](https://www.bilibili.com/video/BV1CZTqebE56/?spm_id_from=333.999.0.0&vd_source=33299c3593cfbafc46803f751395f83f)
+* [<img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/dbacc152-40cd-400e-b118-91f2bc4ba813" width="560" height="315">](https://www.bilibili.com/video/BV1CZTqebE56/?spm_id_from=333.999.0.0&vd_source=33299c3593cfbafc46803f751395f83f)
 
 
 ## 递归买汽水问题
