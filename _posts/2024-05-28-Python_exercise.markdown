@@ -10,6 +10,8 @@ tags:
     - Exercise
 ---
 
+
+
 ## 软件推荐
 * Thonny: 它是一个开源软件。支持安装即使用，无需配置环境，对新手比较友好！！
 * 科学上网，可以从谷歌云盘直接下载👉：[Thonny](https://drive.google.com/file/d/1pWzRVHToag1QWmYOehuCg0LWsgM8qbyB/view?usp=sharing)
