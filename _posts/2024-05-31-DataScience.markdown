@@ -26,6 +26,15 @@ tags:
 
 [](https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/124506b9-0492-4872-941f-d10e8a17911f)
 
+## DS2小项目
+* 图像边缘检测
+* 图像颜色特征提取
+* 尝试使用图像存储数据
+* 图像阈值处理
+* 自动驾驶机器人
+* 数学函数可视化
+* ……
+[DS2小项目源码分享](https://drive.google.com/drive/folders/1sc9NBB33LOES9JosGFw6psYQ_7TLygbh?usp=sharing)
 ## Matplotlib
 ## Numpy
 ## Pandas
