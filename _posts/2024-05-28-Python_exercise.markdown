@@ -29,8 +29,8 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 * 哔哩哔哩
 * [<img src="https://github.com/ChrisLee-Codes/ChrisLee-Codes.github.io/assets/44613341/dbacc152-40cd-400e-b118-91f2bc4ba813" width="560" height="315">](https://www.bilibili.com/video/BV1CZTqebE56/?spm_id_from=333.999.0.0&vd_source=33299c3593cfbafc46803f751395f83f)
 
-## [Python文字教程参考](https://chrislee-codes.github.io/2020/05/05/PythonProgramming/)
-## [](https://space.bilibili.com/1791092340?spm_id_from=333.999.0.0)
+## [Python基础语法大全-2024新版](https://space.bilibili.com/1791092340?spm_id_from=333.999.0.0)
+## [Python文字教程参考-基础版](https://chrislee-codes.github.io/2020/05/05/PythonProgramming/)
 ## 递归买汽水问题
 一瓶汽水一元钱，两个空瓶或者三个瓶盖，可以换一瓶汽水。请问我有20元钱，可以喝多少瓶汽水？
 
