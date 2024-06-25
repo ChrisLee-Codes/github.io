@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 1976729051@qq.com
 description: "这里是 @ChrisLee李帅 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "ChrisLee's Blog, 李帅, ChrisLee李帅, ChrisLee, ChrisLeah, @ChrisLeah, 李帅的博客, ChrisLee Blog, 博客, 个人网站"
-url: "https://chrislee-codes.github.io/" # your host, for absolute URL
+url: "https://chrislee.top" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,11 +70,11 @@ netease_comment: false
 
 # Google Analytics
 # ga_track_id: "G-49ZWRYFFCF" # Format: UA-xxxxxx-xx
-# ga_domain: chrislee.top
+# ga_domain: https://chrislee.top
 # Google Analytics Configuration
 google_analytics:
   measurement_id: G-49ZWRYFFCF
-  domain: chrislee.top
+  domain: https://chrislee.top
 
 
 # Sidebar settings
