@@ -69,8 +69,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: chrislee-codes.github.io
+# ga_track_id: "G-49ZWRYFFCF" # Format: UA-xxxxxx-xx
+# ga_domain: chrislee.top
+# Google Analytics Configuration
+google_analytics:
+  measurement_id: G-49ZWRYFFCF
+  domain: chrislee.top
+
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
