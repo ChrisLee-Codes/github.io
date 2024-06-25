@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Artificial Intelligence"
-date:       2024-06-21 12:00:00
+title:      "Hello World"
+date:       2024-06-25 12:00:00
 author:     "ChrisLee"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
