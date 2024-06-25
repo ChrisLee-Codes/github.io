@@ -4,7 +4,7 @@ title:      "Hello World"
 date:       2024-06-25 12:00:00
 author:     "ChrisLee"
 header-img: "img/post-bg-2015.jpg"
-catalog: true
+catalog: false
 tags:
     - Hello
     - World
