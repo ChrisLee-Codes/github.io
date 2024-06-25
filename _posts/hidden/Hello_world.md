@@ -6,9 +6,11 @@ author:     "ChrisLee"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Python
-    - Artificial Intelligence
-    - Notebook
+    - Hello
+    - World
+    - Hello World
+    - analytics
+    - google
 ---
 
 
